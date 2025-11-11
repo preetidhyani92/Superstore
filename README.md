@@ -38,3 +38,6 @@ MENTOR: NEELA SANTOSH
 
 👩‍💻 **Author:** Preeti Dhyani
 
+# OUTPUT
+
+<img width="1307" height="731" alt="Image" src="https://github.com/user-attachments/assets/a80f9ef4-72d1-447a-86c9-245ba9a84c45" />
